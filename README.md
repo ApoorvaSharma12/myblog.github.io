@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/styles.css">
+
 # The Challenges of Working with Legacy Code and How CodeMate Can Solve Them
 
 ## Introduction
