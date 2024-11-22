@@ -22,6 +22,7 @@ Developers frequently encounter it in:
 Imagine working on a payroll system built 15 years ago. It has custom logic scattered across thousands of lines of code and dependencies that no longer have active support.
 
 ---
+![image](https://github.com/user-attachments/assets/64f1c14e-b02e-4a17-a5a8-a8ddccb65c29)
 
 ## The Challenges of Working with Legacy Code
 ### 1. Understanding the Code  
